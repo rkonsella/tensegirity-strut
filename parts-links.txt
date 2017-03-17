@@ -1,0 +1,7 @@
+Acrylic - https://www.inventables.com/technologies/transparent-grey-acrylic-sheet
+Motor - https://www.precisionmicrodrives.com/product/912-101-12mm-brushless-vibration-motor-15mm-type
+ESC - https://hobbyking.com/en\_us/turnigy-plush-10amp-9gram-speed-controller.html
+Battery - https://www.amazon.com/gp/product/B01N3YQOC5/ref=oh\_aui\_detailpage\_o02\_s00?ie=UTF8\&psc=1
+Microcontroller - http://www.mouser.com/new/rfdigital/rf-digital-simblee-rfd77201/
+Accelerometer - https://www.amazon.com/gp/product/B01F9QKPSQ/ref=oh\_aui\_detailpage\_o03\_s00?ie=UTF8\&psc=1
+Laser-Cutter https://fslaser.com/Product/Pro2416
